@@ -1,0 +1,1 @@
+<div id="result_temas">{include file='t.comus_ajax/c.pages_temas.tpl'}</div>
